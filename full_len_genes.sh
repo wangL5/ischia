@@ -1,3 +1,4 @@
+#!/bin/bash
 #pull out full length genes from OG fasta files
 #add something to the end of each line
 #replace /n with nothing to get everything in one line
